@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "safe_using_keypad", "safe_using_keypad\safe_using_keypad.cproj", "{7B06DA1A-DB4B-4CF3-8D4D-0A8FA8B73002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B06DA1A-DB4B-4CF3-8D4D-0A8FA8B73002}.Debug|AVR.ActiveCfg = Debug|AVR
+		{7B06DA1A-DB4B-4CF3-8D4D-0A8FA8B73002}.Debug|AVR.Build.0 = Debug|AVR
+		{7B06DA1A-DB4B-4CF3-8D4D-0A8FA8B73002}.Release|AVR.ActiveCfg = Release|AVR
+		{7B06DA1A-DB4B-4CF3-8D4D-0A8FA8B73002}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
